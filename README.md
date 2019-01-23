@@ -39,6 +39,8 @@
 -   [Queue.js](/DataStructure/Queue.js)
 -   [SinglyLinkedList.js](/DataStructure/SinglyLinkedList.js)
 -   [Set.js](/DataStructure/Set.js)
+-   [Dictionary.js](/DataStructure/Dictionary.js)
+-   [HashTable.js](/DataStructure/HashTable.js)
 
 ### 3. 参考文章
 
