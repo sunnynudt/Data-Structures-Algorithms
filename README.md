@@ -33,6 +33,8 @@
 
 ##### 11. [排序.下](</Notes/Geek/11.排序(下).md>)
 
+##### 40. [初始动态规划](/Notes/Geek/40.初始动态规划：如何巧妙解决‘双十一’购物时的凑单问题.md)
+
 ### 2. 数据结构与算法分析 JavaScirpt 语言描述
 
 -   [Stack.js](/DataStructure/Stack.js)
