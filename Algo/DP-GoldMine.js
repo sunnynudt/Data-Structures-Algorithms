@@ -1,6 +1,6 @@
 // 动态规划：背包之金矿模型
 
-class GetMaxGold {
+class GoldMine {
     constructor({ peopleTotal, n, peopleNeed, gold }) {
         this.peopleTotal = peopleTotal // 可以拥有挖金子的人数
         this.n = n // 金矿数
@@ -67,8 +67,8 @@ const n = 5
 const peopleNeed = [77, 22, 29, 50, 99]
 const gold = [92, 22, 87, 46, 90]
 
-const getMaxGold = new GetMaxGold({ peopleTotal, n, peopleNeed, gold })
-getMaxGold.init()
+const goldMine = new GoldMine({ peopleTotal, n, peopleNeed, gold })
+goldMine.init()
 // 给定peopleTotal个人和n个金矿能够获得的最大金子数，编号从0开始，最后一个金矿编号为n-1
-const retMaxGold = getMaxGold.getMaxGold(peopleTotal - 1, n - 1)
+const retMaxGold = goldMine.getMaxGold(peopleTotal - 1, n - 1)
 console.log('retMaxGold = ', retMaxGold) // 133
