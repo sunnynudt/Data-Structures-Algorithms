@@ -6,7 +6,7 @@
 
 ##### 1. 参考文献
 
--   [通过金矿模型介绍动态规划 ✅](https://www.cnblogs.com/SDJL/archive/2008/08/22/1274312.html)
+-   [通过金矿模型介绍动态规划](https://www.cnblogs.com/SDJL/archive/2008/08/22/1274312.html)
 -   [知乎：如何理解动态规划](https://www.zhihu.com/question/39948290)
 -   [知乎：什么是动态规划？动态规划的意义是什么？](https://www.zhihu.com/question/23995189/answer/56259510)
 
