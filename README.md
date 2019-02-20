@@ -2,18 +2,12 @@
 
 ## 数据结构
 
----
-
 ## 算法
-
----
 
 - [递归](/Content/递归.md)
 - [动态规划](/Content/动态规划.md)
 
 ## [数据结构与算法之美](https://time.geekbang.org/column/126)
-
----
 
 1. 如何抓住重点，系统高效的学习数据结构与算法
 
@@ -49,8 +43,6 @@
 12. [初识动态规划](/Notes/Geek/40.初识动态规划：如何巧妙解决‘双十一’购物时的凑单问题.md)
 
 ## 数据结构与算法分析 JavaScirpt 语言描述
-
----
 
 - [Stack.js](/DataStructure/Stack.js)
 - [Queue.js](/DataStructure/Queue.js)
