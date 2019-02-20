@@ -2,7 +2,7 @@
 
 ### 1. Content
 
--   **[动态规划](/Content/DP.md)**
+-   **[动态规划](/Content/动态规划.md)**
 
 ### 2. [数据结构与算法之美](https://time.geekbang.org/column/126)
 
