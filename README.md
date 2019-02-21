@@ -10,7 +10,9 @@
 ## LeetCode
 
 - 动态规划
-  - [53 最大子序和 MaximumSubarry --- _Easy_](/LeetCode/53MaximumSubarry.js)
+  - 53 最大子序和 MaximumSubarry(_Easy_)
+    - [JavaScript](/LeetCode/53MaximumSubarry/MaximumSubarry.js)
+    - [Java](/LeetCode/53MaximumSubarry/MaximumSubarry.js)
 
 ## [数据结构与算法之美](https://time.geekbang.org/column/126)
 
