@@ -1,8 +1,7 @@
 // 时间复杂度O(n)，空间复杂度O(1)
 public class MaximumSubarry {
-    // 方法一
     // https://soulmachine.gitbooks.io/algorithm-essentials/java/dp/maximum-subarray.html
-    public int maxSubArray(int[] nums) {
+    public int maxSubArray1(int[] nums) {
         int maxLocal = nums[0];
         int global = nums[0];
         for (int i = 1; i < nums.length; ++i) {
@@ -12,7 +11,6 @@ public class MaximumSubarry {
         return global;
     }
 
-    // 方法二 leetcode 题解
     // 地址：https://leetcode.com/problems/maximum-subarray/discuss/20193/DP-solution-and-some-thoughts
     public int maxSubArray2(int[] A) {
         int n = A.length;
