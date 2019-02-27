@@ -10,7 +10,7 @@
 ## LeetCode
 
 - 动态规划
-  - [最大子序和 MaximumSubarry(_Easy_)](/LeetCode/53MaximumSubarray/README.md)
+  - [最大子序和 MaximumSubarry (_Easy_)](https://github.com/zhangzhongjiang/Data-Structures-Algorithms/tree/master/LeetCode/53MaximumSubarray)
 
 ## [数据结构与算法之美](https://time.geekbang.org/column/126)
 
