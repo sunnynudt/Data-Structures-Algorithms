@@ -11,8 +11,8 @@
 
 - 动态规划
   - 53 最大子序和 MaximumSubarry(_Easy_)
-    - [JavaScript](/LeetCode/53MaximumSubarry/MaximumSubarray.js)
-    - [Java](/LeetCode/53MaximumSubarry/MaximumSubarray.java)
+    - [JavaScript](/LeetCode/53MaximumSubarray/MaximumSubarray.js)
+    - [Java](/LeetCode/53MaximumSubarray/MaximumSubarray.java)
 
 ## [数据结构与算法之美](https://time.geekbang.org/column/126)
 
