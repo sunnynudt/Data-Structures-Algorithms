@@ -4,15 +4,22 @@ class HouseRobber {
   }
 
   getMaxAmount() {
-    let amount1 = 0
-    let amount2 = 0
-    for (let i = 0; i < this.list.length; i = i + 2) {
-      amount1 = amount1 + this.list[i]
+    if (!this.list || this.list.length == 0) {
+      return 0
     }
-    for (let i = 1; i < this.list.length; i = i + 2) {
-      amount2 = amount2 + this.list[i]
+    if (this.list.length == 1) {
+      return this.list[0]
     }
-    return Math.max(amount1, amount2)
+    if (this.list.length == 2) {
+      return Math.max(this.list[0], this.list[1])
+    }
+    let dp = []
+    dp[0] = this.list[0]
+    dp[1] = Math.max(this.list[0], this.list[1])
+    for (let i = 2; i < this.list.length; i++) {
+      dp[i] = Math.max(dp[i - 1], dp[i - 2] + this.list[i])
+    }
+    return Math.max(...dp)
   }
 }
 
