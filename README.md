@@ -5,6 +5,7 @@
 ## 算法
 
 - [递归](/Content/递归.md)
+- [排序](/Content/排序.md)
 - [动态规划](/Content/动态规划.md)
 
 ## LeetCode
