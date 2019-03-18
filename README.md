@@ -58,3 +58,7 @@
 - [HashTable.js](/DataStructure/HashTable.js)
 - [BinarySearchTree.js](/DataStructure/BinarySearchTree.js)
 - [DynamicProgramming.js](/Algo/DP.js)
+
+## 好文推荐
+
+- [六千字干货文：到底要怎么去学算法？](https://mp.weixin.qq.com/s/7cpixzxE2DLaEn7F615AqQ)
