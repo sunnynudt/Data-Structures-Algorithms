@@ -5,7 +5,16 @@
 ## 算法
 
 - [递归](/Content/递归.md)
-- [排序](/Content/排序.md): 快速排序、归并排序、插入排序、选择排序、冒泡排序、桶排序、计数排序、基数排序
+
+- [排序](/Content/Sort.md)
+
+  - [**快速排序**](/Content/Sort/QuickSort.md)
+  - [**归并排序**](/Content/Sort/MergeSort.md)
+  - [冒泡排序](/Content/Sort/BubbleSort.md)
+  - [插入排序](/Content/Sort/InsertionSort.md)
+  - [选择排序](/Content/Sort/SelectionSort.md)
+  - [线性排序：桶排序、计数排序、基数排序](/Content/Sort/LinearSort.md)
+
 - [动态规划](/Content/动态规划.md)
 
 ## LeetCode
