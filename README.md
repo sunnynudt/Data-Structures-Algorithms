@@ -15,6 +15,8 @@
   - [选择排序](/Content/Sort/SelectionSort.md)
   - [线性排序：桶排序、计数排序、基数排序](/Content/Sort/LinearSort.md)
 
+- [二分查找](/Content/BinarySearch.md)
+
 - [动态规划](/Content/动态规划.md)
 
 ## LeetCode
