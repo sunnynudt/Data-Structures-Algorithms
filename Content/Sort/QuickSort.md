@@ -10,7 +10,7 @@
 
 快速排序的核心问题是基准元素的选择以及元素的移动。
 
-##### 元素的移动
+#### 元素的移动
 
 1. 挖坑法(递归)
 
@@ -67,6 +67,52 @@ function partition(arr = [], startIndex = 0, endIndex = 0) {
 
 2. 指针交换法(递归)
 
+和挖坑法相比，指针交换法在 partition 方法中进行的元素交换次数较少。
+
+```js
+class QuickSort {
+  quickSort(arr, startIndex, endIndex) {
+    // 递归结束条件：startIndex >= endIndex
+    if (startIndex >= endIndex) {
+      return []
+    }
+    // 得到基准元素位置
+    const pivotIndex = this.partition(arr, startIndex, endIndex)
+    // 根据基准元素，分成两部分递归排序
+    this.quickSort(arr, startIndex, pivotIndex)
+    this.quickSort(arr, pivotIndex + 1, endIndex)
+    return arr
+  }
+
+  partition(arr, startIndex, endIndex) {
+    // 取第一个元素作为基准元素
+    const pivot = arr[startIndex]
+    const left = startIndex
+    const right = endIndex
+    while (left !== right) {
+      // 控制right指针比较并左移
+      while (left < right && arr[right] > pivot) {
+        right--
+      }
+      // 控制left指针比较并右移
+      while (left < right && arr[left] <= pivot) {
+        left++
+      }
+      // 交换left和right指向的元素
+      if (left < right) {
+        const tmp = arr[left]
+        arr[left] = arr[right]
+        arr[right] = tmp
+      }
+    }
+    // pivot和指针重合点交换
+    const tmp = arr[left]
+    arr[left] = arr[startIndex]
+    arr[startIndex] = tmp
+    return left
+  }
+}
+```
 ##### 2. 快速排序与归并排序的区别
 
 1. 归并排序的处理是**由下到上**，先处理子问题，然后再合并。
