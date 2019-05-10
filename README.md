@@ -21,6 +21,8 @@
 
 - [散列表(哈希表)](/Content/HashTable.md)
 
+- [哈希算法](/Content/哈希算法.md)
+
 - [动态规划](/Content/动态规划.md)
 
 ## LeetCode
