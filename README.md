@@ -1,6 +1,6 @@
 # 数据结构与算法
 
-## 笔记、思维导图与代码段
+## <img src="./Assets/icons/pencil.png" width="28px" height="28px"> 笔记、思维导图与代码段
 
 - [递归](/Content/递归.md)
 
@@ -25,7 +25,7 @@
 
 - [动态规划](/Content/动态规划.md)
 
-## LeetCode
+## <img src="./Assets/icons/watermelon.png" width="28px" height="28px"> LeetCode
 
 - 动态规划
   - [最大子序和 MaximumSubarry (_Easy_)](https://github.com/zhangzhongjiang/Data-Structures-Algorithms/tree/master/LeetCode/53_MaximumSubarray)
@@ -62,6 +62,6 @@
 
 10. [初识动态规划](/Notes/Geek/40.初识动态规划：如何巧妙解决‘双十一’购物时的凑单问题.md)
 
-## 好文推荐
+## <img src="./Assets/icons/wrench.png" width="28px" height="28px"> LeetCode 好文推荐
 
 - [六千字干货文：到底要怎么去学算法？](https://mp.weixin.qq.com/s/7cpixzxE2DLaEn7F615AqQ)
