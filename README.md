@@ -64,17 +64,6 @@
 
 10. [初识动态规划](/Notes/Geek/40.初识动态规划：如何巧妙解决‘双十一’购物时的凑单问题.md)
 
-## 数据结构与算法分析 JavaScirpt 语言描述
-
-- [Stack.js](/DataStructure/Stack.js)
-- [Queue.js](/DataStructure/Queue.js)
-- [SinglyLinkedList.js](/DataStructure/SinglyLinkedList.js)
-- [Set.js](/DataStructure/Set.js)
-- [Dictionary.js](/DataStructure/Dictionary.js)
-- [HashTable.js](/DataStructure/HashTable.js)
-- [BinarySearchTree.js](/DataStructure/BinarySearchTree.js)
-- [DynamicProgramming.js](/Algo/DP.js)
-
 ## 好文推荐
 
 - [六千字干货文：到底要怎么去学算法？](https://mp.weixin.qq.com/s/7cpixzxE2DLaEn7F615AqQ)
