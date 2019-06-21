@@ -2,28 +2,28 @@
 
 ## <img src="./Assets/icons/pencil.png" width="28px" height="28px"> 笔记、思维导图与代码段
 
-- [递归](/Content/递归.md)
+- [递归](/Notes/递归.md)
 
-- [排序](/Content/Sort.md)
+- [排序](/Notes/Sort.md)
 
-  - [**快速排序**](/Content/Sort/QuickSort.md)
-  - [**归并排序**](/Content/Sort/MergeSort.md)
-  - [冒泡排序](/Content/Sort/BubbleSort.md)
-  - [插入排序](/Content/Sort/InsertionSort.md)
-  - [选择排序](/Content/Sort/SelectionSort.md)
-  - [线性排序：桶排序、计数排序、基数排序](/Content/Sort/LinearSort.md)
+  - [**快速排序**](/Notes/Sort/QuickSort.md)
+  - [**归并排序**](/Notes/Sort/MergeSort.md)
+  - [冒泡排序](/Notes/Sort/BubbleSort.md)
+  - [插入排序](/Notes/Sort/InsertionSort.md)
+  - [选择排序](/Notes/Sort/SelectionSort.md)
+  - [线性排序：桶排序、计数排序、基数排序](/Notes/Sort/LinearSort.md)
 
-- [二分查找](/Content/BinarySearch.md)
+- [二分查找](/Notes/BinarySearch.md)
 
-- [跳表](/Content/跳表.md)
+- [跳表](/Notes/跳表.md)
 
-- [散列表(哈希表)](/Content/HashTable.md)
+- [散列表(哈希表)](/Notes/HashTable.md)
 
-- [哈希算法](/Content/哈希算法.md)
+- [哈希算法](/Notes/哈希算法.md)
 
-- [二叉树](/Content/二叉树.md)
+- [二叉树](/Notes/二叉树.md)
 
-- [动态规划](/Content/动态规划.md)
+- [动态规划](/Notes/动态规划.md)
 
 ## <img src="./Assets/icons/watermelon.png" width="28px" height="28px"> LeetCode
 
@@ -31,7 +31,7 @@
   - [最大子序和 MaximumSubarry (_Easy_)](https://github.com/zhangzhongjiang/Data-Structures-Algorithms/tree/master/LeetCode/53_MaximumSubarray)
   - [打家劫舍 HouseRobber (_Easy_)](https://github.com/zhangzhongjiang/Data-Structures-Algorithms/tree/master/LeetCode/198_HouseRobber)
 
-## [数据结构与算法之美](https://time.geekbang.org/column/126)
+<!-- ## [数据结构与算法之美](https://time.geekbang.org/column/126)
 
 1. 如何抓住重点，系统高效的学习数据结构与算法
 
@@ -60,7 +60,7 @@
 
 9. [递归](/Notes/Geek/09.递归.md)
 
-10. [初识动态规划](/Notes/Geek/40.初识动态规划：如何巧妙解决‘双十一’购物时的凑单问题.md)
+10. [初识动态规划](/Notes/Geek/40.初识动态规划：如何巧妙解决‘双十一’购物时的凑单问题.md) -->
 
 ## <img src="./Assets/icons/wrench.png" width="28px" height="28px"> LeetCode 好文推荐
 
