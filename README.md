@@ -23,6 +23,8 @@
 
 - [二叉树](/Notes/二叉树.md)
 
+- [图](/Notes/图.md)
+
 - [动态规划](/Notes/动态规划.md)
 
 ## <img src="./Assets/icons/watermelon.png" width="28px" height="28px"> LeetCode
