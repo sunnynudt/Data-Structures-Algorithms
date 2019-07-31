@@ -19,7 +19,13 @@
 
 - [树](/Notes/二叉树.md)
 
-  - 二叉树、二叉树的遍历、二叉查找树 BST、红黑树 R-B Tree、堆 Heap
+  - 二叉树与二叉树遍历
+
+  - [二叉查找树 BST](/Notes/二叉查找树BST.md)
+
+  - [红黑树 R-B Tree](/Notes/红黑树R-B-Tree.md)
+
+  - [堆 Heap](/Notes/堆Heap.md)
 
 * [图](/Notes/图.md)
 
