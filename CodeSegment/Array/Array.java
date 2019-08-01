@@ -25,8 +25,8 @@ class Array {
         }
 
         // 从右往左循环，将元素逐个向右挪一位
-        for (int i = size - 1; i >= i; i--) {
-            array[i + 1] = array[index];
+        for (int i = size - 1; i >= index; i--) {
+            array[i + 1] = array[i];
         }
 
         // 腾出的位置放置新元素
@@ -57,7 +57,7 @@ class Array {
         int deletedElement = array[index];
         // 从左向右循环，将元素逐个向左挪一位
         for (int i = index; i < size - 1; i++) {
-            array[i] = array[index + 1];
+            array[i] = array[i + 1];
         }
         size--;
         return deletedElement;
