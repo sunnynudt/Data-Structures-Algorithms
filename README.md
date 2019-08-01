@@ -2,6 +2,8 @@
 
 ## <img src="./Assets/icons/基础知识.png" width="30px" height="30px"> 笔记 & 思维导图
 
+- [数组](/Notes/数组.md)
+
 - [递归](/Notes/递归.md)
 
 - [排序](/Notes/Sort.md)
