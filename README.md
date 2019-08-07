@@ -41,7 +41,12 @@
 
 ## LeetCode
 
+- 数组
+
+  - [TwoSum (_Easy_)](/LeetCode/1_TwoSum.js)
+
 - 动态规划
+
   - [最大子序和 MaximumSubarry (_Easy_)](/LeetCode/53_MaximumSubarray.js)
   - [打家劫舍 HouseRobber (_Easy_)](/LeetCode/198_HouseRobber.js)
 
