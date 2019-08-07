@@ -42,8 +42,8 @@
 ## <img src="./Assets/icons/成长.png" width="30px" height="30px"> LeetCode
 
 - 动态规划
-  - [最大子序和 MaximumSubarry (_Easy_)](https://github.com/zhangzhongjiang/Data-Structures-Algorithms/tree/master/LeetCode/53_MaximumSubarray)
-  - [打家劫舍 HouseRobber (_Easy_)](https://github.com/zhangzhongjiang/Data-Structures-Algorithms/tree/master/LeetCode/198_HouseRobber)
+  - [最大子序和 MaximumSubarry (_Easy_)](/LeetCode/53_MaximumSubarray.js)
+  - [打家劫舍 HouseRobber (_Easy_)](/LeetCode/198_HouseRobber.js)
 
 <!-- ## [数据结构与算法之美](https://time.geekbang.org/column/126)
 
