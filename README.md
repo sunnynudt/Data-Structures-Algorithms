@@ -45,11 +45,12 @@
 
   - [TwoSum (_Easy_)](/LeetCode/1_TwoSum.js)
   - [Container With Most Water (_Medium_)](/LeetCode/11_ContainerWithMostWater.js)
+  - [FlipAndInvertImage (_Easy_)](/LeetCode/832_FlipAndInvertImage.js)
 
 - 动态规划
 
-  - [最大子序和 MaximumSubarry (_Easy_)](/LeetCode/53_MaximumSubarray.js)
-  - [打家劫舍 HouseRobber (_Easy_)](/LeetCode/198_HouseRobber.js)
+  - [MaximumSubarry (_Easy_)](/LeetCode/53_MaximumSubarray.js)
+  - [HouseRobber (_Easy_)](/LeetCode/198_HouseRobber.js)
 
 <!-- ## [数据结构与算法之美](https://time.geekbang.org/column/126)
 
