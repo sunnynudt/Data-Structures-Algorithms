@@ -4,6 +4,8 @@
 
 - [数组](/Notes/数组.md)
 
+- [链表](/Notes/链表.md)
+
 - [递归](/Notes/递归.md)
 
 - [排序](/Notes/Sort.md)
@@ -80,15 +82,11 @@
 
 5. [数组](/Notes/Geek/05.数组.md)
 
-6. [链表](/Notes/Geek/06.链表.md)
-
 7. [栈](/Notes/Geek/07.栈.md)
 
 8. [队列](/Notes/Geek/08.队列.md)
 
-9. [递归](/Notes/Geek/09.递归.md)
-
-10. [初识动态规划](/Notes/Geek/40.初识动态规划：如何巧妙解决‘双十一’购物时的凑单问题.md) -->
+9. [递归](/Notes/Geek/09.递归.md)  -->
 
 ## 好文推荐
 
