@@ -37,6 +37,8 @@
 
   - BF 算法、RK 算法、BM 算法、KMP 算法、Trie 树、AC 自动机
 
+* [贪心算法](/Notes/贪心算法.md)
+
 * [动态规划](/Notes/动态规划.md)
 
 ## LeetCode
@@ -47,6 +49,10 @@
   - [Container With Most Water](/LeetCode/11_ContainerWithMostWater.js)
   - [Flip And Invert Image](/LeetCode/832_FlipAndInvertImage.js)
   - [Non-decreasing Array](/LeetCode/665_NondecreasingArray.js)
+
+- 贪心算法
+
+  - [Best Time to Buy and Sell Stock II](/LeetCode/122_BestTimetoBuyandSellStockII.js)
 
 - 动态规划
 
