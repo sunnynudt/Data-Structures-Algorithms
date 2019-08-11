@@ -43,14 +43,15 @@
 
 - 数组
 
-  - [TwoSum (_Easy_)](/LeetCode/1_TwoSum.js)
-  - [Container With Most Water (_Medium_)](/LeetCode/11_ContainerWithMostWater.js)
-  - [FlipAndInvertImage (_Easy_)](/LeetCode/832_FlipAndInvertImage.js)
+  - [Two Sum](/LeetCode/1_TwoSum.js)
+  - [Container With Most Water](/LeetCode/11_ContainerWithMostWater.js)
+  - [Flip And Invert Image](/LeetCode/832_FlipAndInvertImage.js)
+  - [Non-decreasing Array](/LeetCode/665_NondecreasingArray.js)
 
 - 动态规划
 
-  - [MaximumSubarry (_Easy_)](/LeetCode/53_MaximumSubarray.js)
-  - [HouseRobber (_Easy_)](/LeetCode/198_HouseRobber.js)
+  - [Maximum Subarry](/LeetCode/53_MaximumSubarray.js)
+  - [House Robber](/LeetCode/198_HouseRobber.js)
 
 <!-- ## [数据结构与算法之美](https://time.geekbang.org/column/126)
 
