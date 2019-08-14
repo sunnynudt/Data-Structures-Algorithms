@@ -1,6 +1,6 @@
 # 数据结构与算法
 
-## 笔记 & 思维导图
+## Notes
 
 - [数组](/Notes/数组.md)
 
@@ -51,6 +51,10 @@
   - [Container With Most Water](/LeetCode/11_ContainerWithMostWater.js)
   - [Flip And Invert Image](/LeetCode/832_FlipAndInvertImage.js)
   - [Non-decreasing Array](/LeetCode/665_NondecreasingArray.js)
+
+- 链表
+
+  - [Reverse Linked List](/LeetCode/206_ReverseLinkedList.js)
 
 - 贪心算法
 
