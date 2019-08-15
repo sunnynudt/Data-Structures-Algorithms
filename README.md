@@ -55,6 +55,7 @@
 - 链表
 
   - [Reverse Linked List](/LeetCode/206_ReverseLinkedList.js)
+  - [Swap Nodes in Pairs](/LeetCode/24_SwapNodesInPairs.js)
 
 - 贪心算法
 
