@@ -7,20 +7,21 @@ class ReverseLinkedList {
    * }
    */
   /**
+   * 动画链接 https://cxyxiaowu.com/articles/2019/05/02/1556786658024.html
    * @param {ListNode} head
    * @return {ListNode}
    */
   reverseList(head) {
-    let tmp = null
-    let newHead = null
+    let prev = null
+    let cur = head
 
-    while (head) {
-      tmp = head
-      head = head.next
-      tmp.next = newHead
-      newHead = tmp
+    while (cur) {
+      let next = cur.next
+      cur.next = prev
+      prev = cur
+      cur = next
     }
 
-    return newHead
+    return prev
   }
 }
