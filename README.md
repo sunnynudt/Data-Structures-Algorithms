@@ -56,6 +56,7 @@
 
   - [Reverse Linked List](/LeetCode/206_ReverseLinkedList.js)
   - [Swap Nodes in Pairs](/LeetCode/24_SwapNodesInPairs.js)
+  - [Linked List Cycle](/LeetCode/141_LinkedListCycle.js)
 
 - 贪心算法
 
