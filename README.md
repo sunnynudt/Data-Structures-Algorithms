@@ -6,6 +6,8 @@
 
 - [链表](/Notes/链表.md)
 
+- [队列](/Notes/队列.md)
+
 - [递归](/Notes/递归.md)
 
 - [排序](/Notes/Sort.md)
