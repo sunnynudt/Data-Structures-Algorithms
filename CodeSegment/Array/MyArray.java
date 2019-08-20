@@ -1,4 +1,4 @@
-class Array {
+public class MyArray {
     private int[] array;
     private int size;
 
