@@ -60,6 +60,10 @@
   - [Swap Nodes in Pairs](/LeetCode/24_SwapNodesInPairs.js)
   - [Linked List Cycle](/LeetCode/141_LinkedListCycle.js)
 
+- 哈希表
+
+  - [Valid Anagram](/LeetCode/242_ValidAnagram.js)
+
 - 贪心算法
 
   - [Best Time to Buy and Sell Stock II](/LeetCode/122_BestTimetoBuyandSellStockII.js)
