@@ -12,7 +12,7 @@ class ValidParentheses {
     }
 
     if (s.length === 0) {
-      return false
+      return true
     }
 
     for (let i = 0; i < s.length; i++) {
