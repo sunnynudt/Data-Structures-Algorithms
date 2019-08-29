@@ -60,6 +60,10 @@
   - [Swap Nodes in Pairs](/LeetCode/24_SwapNodesInPairs.js)
   - [Linked List Cycle](/LeetCode/141_LinkedListCycle.js)
 
+- 栈
+
+  - [Valid Parentheses](/LeetCode/20_ValidParentheses.js)
+
 - 哈希表
 
   - [Valid Anagram](/LeetCode/242_ValidAnagram.js)
