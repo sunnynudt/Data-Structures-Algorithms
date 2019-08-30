@@ -50,6 +50,7 @@
 - 数组
 
   - [Two Sum](/LeetCode/1_TwoSum.js)
+  - [3 Sum](/LeetCode/15_3Sum.js)
   - [Container With Most Water](/LeetCode/11_ContainerWithMostWater.js)
   - [Flip And Invert Image](/LeetCode/832_FlipAndInvertImage.js)
   - [Non-decreasing Array](/LeetCode/665_NondecreasingArray.js)
