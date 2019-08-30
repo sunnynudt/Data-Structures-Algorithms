@@ -77,6 +77,14 @@
   - [Maximum Subarry](/LeetCode/53_MaximumSubarray.js)
   - [House Robber](/LeetCode/198_HouseRobber.js)
 
+## [有用的信息](https://www.bigocheatsheet.com/)
+
+![](/Assets/images/Big-O_Complexity_Chart.png)
+
+![](/Assets/images/Common_Data_Structure_Operations.png)
+
+![](/Assets/images/Array_Sorting_Algorithms.png)
+
 <!-- ## [数据结构与算法之美](https://time.geekbang.org/column/126)
 
 1. 如何抓住重点，系统高效的学习数据结构与算法
