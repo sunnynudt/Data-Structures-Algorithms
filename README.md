@@ -49,34 +49,39 @@
 
 - 数组
 
-  - [Two Sum](/LeetCode/1_TwoSum.js)
-  - [3 Sum](/LeetCode/15_3Sum.js)
-  - [Container With Most Water](/LeetCode/11_ContainerWithMostWater.js)
-  - [Flip And Invert Image](/LeetCode/832_FlipAndInvertImage.js)
-  - [Non-decreasing Array](/LeetCode/665_NondecreasingArray.js)
+  - [1. 2 Sum](/LeetCode/1_TwoSum.js)
+  - [11. Container With Most Water](/LeetCode/11_ContainerWithMostWater.js)
+  - [15. 3 Sum](/LeetCode/15_3Sum.js)
+  - [665. Non-decreasing Array](/LeetCode/665_NondecreasingArray.js)
+  - [832. Flip And Invert Image](/LeetCode/832_FlipAndInvertImage.js)
 
 - 链表
 
-  - [Reverse Linked List](/LeetCode/206_ReverseLinkedList.js)
-  - [Swap Nodes in Pairs](/LeetCode/24_SwapNodesInPairs.js)
-  - [Linked List Cycle](/LeetCode/141_LinkedListCycle.js)
+  - [24. Swap Nodes in Pairs](/LeetCode/24_SwapNodesInPairs.js)
+  - [141. Linked List Cycle](/LeetCode/141_LinkedListCycle.js)
+  - [206. Reverse Linked List](/LeetCode/206_ReverseLinkedList.js)
 
 - 栈
 
-  - [Valid Parentheses](/LeetCode/20_ValidParentheses.js)
+  - [20. Valid Parentheses](/LeetCode/20_ValidParentheses.js)
 
 - 哈希表
 
-  - [Valid Anagram](/LeetCode/242_ValidAnagram.js)
+  - [242. Valid Anagram](/LeetCode/242_ValidAnagram.js)
+
+- 二叉树
+
+  - [94. Binary Tree Inorder Traversal](/LeetCode\94_BinaryTreeInorderTraversal.js)
+  - [98. Validate Binary Search Tree](/LeetCode\98_ValidateBinarySearchTree.js)
 
 - 贪心算法
 
-  - [Best Time to Buy and Sell Stock II](/LeetCode/122_BestTimetoBuyandSellStockII.js)
+  - [122. Best Time to Buy and Sell Stock II](/LeetCode/122_BestTimetoBuyandSellStockII.js)
 
 - 动态规划
 
-  - [Maximum Subarry](/LeetCode/53_MaximumSubarray.js)
-  - [House Robber](/LeetCode/198_HouseRobber.js)
+  - [53. Maximum Subarry](/LeetCode/53_MaximumSubarray.js)
+  - [198. House Robber](/LeetCode/198_HouseRobber.js)
 
 ## [有用的信息](https://www.bigocheatsheet.com/)
 
