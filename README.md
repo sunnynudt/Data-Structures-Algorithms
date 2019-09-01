@@ -71,8 +71,10 @@
 
 - 二叉树
 
-  - [94. Binary Tree Inorder Traversal](/LeetCode/94_BinaryTreeInorderTraversal.js)
-  - [98. Validate Binary Search Tree](/LeetCode/98_ValidateBinarySearchTree.js)
+  - [94. 二叉树的中序遍历](/LeetCode/94_BinaryTreeInorderTraversal.js)
+  - [98. 验证二叉搜索树](/LeetCode/98_ValidateBinarySearchTree.js)
+  - [144. 二叉树的前序遍历](/LeetCode/144_BinaryTreePreorderTraversal.js)
+  - [145. 二叉树的后序遍历](/LeetCode/145_BinaryTreePostorderTraversal.js)
 
 - 贪心算法
 
