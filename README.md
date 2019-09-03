@@ -57,6 +57,7 @@
 
 - 链表
 
+  - [2. 两数相加](/LeetCode/2_AddTwoNumbers.js)
   - [24. Swap Nodes in Pairs](/LeetCode/24_SwapNodesInPairs.js)
   - [141. Linked List Cycle](/LeetCode/141_LinkedListCycle.js)
   - [206. Reverse Linked List](/LeetCode/206_ReverseLinkedList.js)
