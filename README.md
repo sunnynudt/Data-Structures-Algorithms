@@ -62,6 +62,7 @@
   - [24. Swap Nodes in Pairs](/LeetCode/24_SwapNodesInPairs.js)
   - [141. Linked List Cycle](/LeetCode/141_LinkedListCycle.js)
   - [206. Reverse Linked List](/LeetCode/206_ReverseLinkedList.js)
+  - [707. 设计链表](/LeetCode/707_DesignLinkedList.js)
 
 - 栈
 
