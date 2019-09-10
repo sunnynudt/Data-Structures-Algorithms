@@ -73,6 +73,10 @@
 
   - [242. Valid Anagram](/LeetCode/242_ValidAnagram.js)
 
+- 递归
+
+  - [50. Pow(x, n)](/LeetCode/50_Pow.js)
+
 - 二叉树
 
   - [94. 二叉树的中序遍历](/LeetCode/94_BinaryTreeInorderTraversal.js)
