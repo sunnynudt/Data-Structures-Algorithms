@@ -2,48 +2,39 @@
 
 ## Notes
 
-- [数组](/Notes/数组.md)
+### 数据结构
 
+#### 物理结构
+
+- [数组](/Notes/数组.md)
 - [链表](/Notes/链表.md)
 
+#### 逻辑结构
+
 - [队列](/Notes/队列.md)
+- [跳表](/Notes/跳表.md)
+- [哈希表](/Notes/HashTable.md)
+- [树](/Notes/二叉树.md)
+  - [二叉查找树 BST](/Notes/二叉查找树BST.md)
+  - [红黑树 R-B Tree](/Notes/红黑树R-B-Tree.md)
+  - [堆 Heap](/Notes/堆Heap.md)
+- [图](/Notes/图.md)
+
+### 算法
 
 - [递归](/Notes/递归.md)
-
 - [排序](/Notes/Sort.md)
-
-  - [快速排序](/Notes/Sort/QuickSort.md)、[归并排序](/Notes/Sort/MergeSort.md)、[冒泡排序](/Notes/Sort/BubbleSort.md)、[插入排序](/Notes/Sort/InsertionSort.md)、[选择排序](/Notes/Sort/SelectionSort.md)
+  - [快速排序](/Notes/Sort/QuickSort.md)
+  - [归并排序](/Notes/Sort/MergeSort.md)
+  - [冒泡排序](/Notes/Sort/BubbleSort.md)
+  - [插入排序](/Notes/Sort/InsertionSort.md)
+  - [选择排序](/Notes/Sort/SelectionSort.md)
   - [线性排序：桶排序、计数排序、基数排序](/Notes/Sort/LinearSort.md)
-
 - [二分查找](/Notes/BinarySearch.md)
-
-- [跳表](/Notes/跳表.md)
-
-- [哈希表](/Notes/HashTable.md)
-
 - [哈希算法](/Notes/哈希算法.md)
-
-- [树](/Notes/二叉树.md)
-
-  - 二叉树与二叉树遍历
-
-  - [二叉查找树 BST](/Notes/二叉查找树BST.md)
-
-  - [红黑树 R-B Tree](/Notes/红黑树R-B-Tree.md)
-
-  - [堆 Heap](/Notes/堆Heap.md)
-
-* [图](/Notes/图.md)
-
-  - 广度优先搜索 BFS、深度优先搜索 DFS
-
-* [字符串匹配](/Notes/字符串匹配.md)
-
-  - BF 算法、RK 算法、BM 算法、KMP 算法、Trie 树、AC 自动机
-
-* [贪心算法](/Notes/贪心算法.md)
-
-* [动态规划](/Notes/动态规划.md)
+- [字符串匹配](/Notes/字符串匹配.md)
+- [贪心算法](/Notes/贪心算法.md)
+- [动态规划](/Notes/动态规划.md)
 
 ## LeetCode
 
@@ -131,11 +122,7 @@
 ## 好文推荐
 
 - [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
-
 - [leetcode 题解：JavaScript 实现](https://github.com/azl397985856/leetcode)
-
 - [awesome-coding-js](https://github.com/ConardLi/awesome-coding-js)
-
 - [LeetCodeAnimation: 用动画的形式呈现解 LeetCode 题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
-
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
