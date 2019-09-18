@@ -12,7 +12,6 @@
 #### 逻辑结构
 
 - [队列](/Notes/队列.md)
-- [跳表](/Notes/跳表.md)
 - [哈希表](/Notes/HashTable.md)
 - [树](/Notes/二叉树.md)
   - [二叉查找树 BST](/Notes/二叉查找树BST.md)
@@ -22,14 +21,7 @@
 
 ### 算法
 
-- [递归](/Notes/递归.md)
 - [排序](/Notes/Sort.md)
-  - [快速排序](/Notes/Sort/QuickSort.md)
-  - [归并排序](/Notes/Sort/MergeSort.md)
-  - [冒泡排序](/Notes/Sort/BubbleSort.md)
-  - [插入排序](/Notes/Sort/InsertionSort.md)
-  - [选择排序](/Notes/Sort/SelectionSort.md)
-  - [线性排序：桶排序、计数排序、基数排序](/Notes/Sort/LinearSort.md)
 - [二分查找](/Notes/BinarySearch.md)
 - [哈希算法](/Notes/哈希算法.md)
 - [字符串匹配](/Notes/字符串匹配.md)
