@@ -84,6 +84,8 @@
   - [53. Maximum Subarry](/LeetCode/53_MaximumSubarray.js)
   - [198. House Robber](/LeetCode/198_HouseRobber.js)
 
+- [More...](/Notes/LeetCode.md)
+
 ## [有用的信息](https://www.bigocheatsheet.com/)
 
 ![](/Assets/images/Big-O_Complexity_Chart.png)
