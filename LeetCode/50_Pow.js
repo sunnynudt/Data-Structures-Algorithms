@@ -27,5 +27,5 @@ var myPow = function(x, n) {
     return 1 / myPow(x, -n)
   }
 
-  return n % 2 !== 0 ? x * myPow(x, n - 1) : myPow(x * x, Math.floor(n / 2))
+  return n % 2 !== 0 ? x * myPow(x, n - 1) : myPow(x * x, n / 2)
 }
