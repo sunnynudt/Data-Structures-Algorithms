@@ -43,12 +43,12 @@ _Tips: 思考题：插入排序和冒泡排序的时间复杂度都是 O(n^2)，
 
 #### Content
 
-1. [冒泡排序](/Content/Sort/BubbleSort.md)
-2. [插入排序](/Content/Sort/InsertionSort.md)
-3. [选择排序](/Content/Sort/SelectionSort.md)
-4. [**归并排序**](/Content/Sort/MergeSort.md)
-5. [**快速排序**](/Content/Sort/QuickSort.md)
-6. [线性排序：桶排序、计数排序、基数排序](/Content/Sort/LinearSort.md)
+1. [冒泡排序](/Notes/Sort/BubbleSort.md)
+2. [插入排序](/Notes/Sort/InsertionSort.md)
+3. [选择排序](/Notes/Sort/SelectionSort.md)
+4. [**归并排序**](/Notes/Sort/MergeSort.md)
+5. [**快速排序**](/Notes/Sort/QuickSort.md)
+6. [线性排序：桶排序、计数排序、基数排序](/Notes/Sort/LinearSort.md)
 
 #### 排序优化
 
