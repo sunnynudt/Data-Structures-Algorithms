@@ -1,16 +1,7 @@
-# 数据结构与算法
-
-## Notes
-
-### 数据结构
-
-#### 物理结构
+## 数据结构
 
 - [数组](/Notes/数组.md)
 - [链表](/Notes/链表.md)
-
-#### 逻辑结构
-
 - [队列](/Notes/队列.md)
 - [哈希表](/Notes/HashTable.md)
 - [树](/Notes/二叉树.md)
@@ -19,7 +10,7 @@
   - [堆 Heap](/Notes/堆Heap.md)
 - [图](/Notes/图.md)
 
-### 算法
+## 算法
 
 - [排序](/Notes/Sort.md)
 - [二分查找](/Notes/BinarySearch.md)
@@ -32,29 +23,29 @@
 
 - 数组
 
-  - [1. 2 Sum](/LeetCode/1_TwoSum.js)
-  - [11. Container With Most Water](/LeetCode/11_ContainerWithMostWater.js)
-  - [15. 3 Sum](/LeetCode/15_3Sum.js)
-  - [665. Non-decreasing Array](/LeetCode/665_NondecreasingArray.js)
-  - [832. Flip And Invert Image](/LeetCode/832_FlipAndInvertImage.js)
+  - [1. 两数之和](/LeetCode/1_TwoSum.js)
+  - [11. 盛最多水的容器](/LeetCode/11_ContainerWithMostWater.js)
+  - [15. 三数之和](/LeetCode/15_3Sum.js)
+  - [665. 非递减数列](/LeetCode/665_NondecreasingArray.js)
+  - [832. 翻转图像](/LeetCode/832_FlipAndInvertImage.js)
 
 - 链表
 
   - [2. 两数相加](/LeetCode/2_AddTwoNumbers.js)
   - [19. 删除链表的倒数第 N 个节点](/LeetCode/19_RemoveNthNodeFromEndofList.js)
   - [21. 合并两个有序链表](/LeetCode/21_MergeTwoSortedLists.js)
-  - [24. Swap Nodes in Pairs](/LeetCode/24_SwapNodesInPairs.js)
-  - [141. Linked List Cycle](/LeetCode/141_LinkedListCycle.js)
-  - [206. Reverse Linked List](/LeetCode/206_ReverseLinkedList.js)
+  - [24. 两两交换链表中的节点](/LeetCode/24_SwapNodesInPairs.js)
+  - [141. 环形链表](/LeetCode/141_LinkedListCycle.js)
+  - [206. 反转链表](/LeetCode/206_ReverseLinkedList.js)
   - [707. 设计链表](/LeetCode/707_DesignLinkedList.js)
 
 - 栈
 
-  - [20. Valid Parentheses](/LeetCode/20_ValidParentheses.js)
+  - [20. 有效的括号](/LeetCode/20_ValidParentheses.js)
 
 - 哈希表
 
-  - [242. Valid Anagram](/LeetCode/242_ValidAnagram.js)
+  - [242. 有效的字母异位词](/LeetCode/242_ValidAnagram.js)
 
 - 递归
 
@@ -69,14 +60,14 @@
 
 - 贪心算法
 
-  - [122. Best Time to Buy and Sell Stock II](/LeetCode/122_BestTimetoBuyandSellStockII.js)
+  - [122. 买卖股票的最佳时机 II](/LeetCode/122_BestTimetoBuyandSellStockII.js)
 
 - 动态规划
 
-  - [53. Maximum Subarry](/LeetCode/53_MaximumSubarray.js)
-  - [198. House Robber](/LeetCode/198_HouseRobber.js)
+  - [53. 最大子序和](/LeetCode/53_MaximumSubarray.js)
+  - [198. 打家劫舍](/LeetCode/198_HouseRobber.js)
 
-- [More...](/Notes/LeetCode.md)
+- [更多 LeetCode 算法题......](/Notes/LeetCode.md)
 
 ## [有用的信息](https://www.bigocheatsheet.com/)
 
