@@ -39,9 +39,25 @@ _Tips: 思考题：插入排序和冒泡排序的时间复杂度都是 O(n^2)，
 
 ### 排序算法
 
-- [快速排序](/Notes/Sort/QuickSort.md)
 - [归并排序](/Notes/Sort/MergeSort.md)
-- [冒泡排序](/Code/Sort/bubbleSort.js)
 - [插入排序](/Notes/Sort/InsertionSort.md)
 - [选择排序](/Notes/Sort/SelectionSort.md)
 - [线性排序：桶排序、计数排序、基数排序](/Notes/Sort/LinearSort.md)
+
+### [快速排序](/Code/Sort/quickSort.js)
+
+快排是处理大数据最快的排序算法之一。快排在平均情况下，排序 n 个数据要 O(nlogn)次比较，在最坏情况下则需要 O(n^2)次比较，但是这种情况比较少见。实际中，快排通常要比其他 O(nlogn)算法要快，因为它的内部循环(inner loop)可以在大部分的架构上很有效率的被实现出来。
+
+> 快排的最坏运行情况是 O(n^2)，比如顺序数组的排序。但是平均时间复杂度时 O(nlogn)，且 O(nlogn)记号中隐含的常数因子很小，比复杂度稳定等于 O(nlogn)的归并排序要小很多。所以，对绝大多数顺序性较弱的随机数组而言，快速排序总是优于归并排序。——《算法艺术与信息学竞赛》
+
+快排也是利用分治思想，看起来像归并排序，但是思路完全不同。
+
+核心思想：如果要排序数组中下标从 p 到 r 之间的一组数据，可选择 p 到 r 之间的任意一个数据作为 pivot(区分点)。遍历 p 到 r 之间的数据，将小于 pivot 的放到左边，将大于 pivot 的放到右边，将 pivot 放到中间。经过这一步骤后，数组 p 到 r 之间的数据就被分成了 3 个部分，前面 p 到 q-1 之间都是小于 pivot 的，中间是 pivot，后面的 q+1 到 r 之间都是大于 pivot 的。根据分治、递归的处理思想，可以用递归排序下标从 p 到 q-1 之间的数据和下标从 q+1 到 r 之间的数据，直到区间缩小为 1，就说明所有数据都有序了。
+
+快速排序的核心问题是基准元素的选择以及元素的移动。
+
+[快速排序 JavaScript](/Code/Sort/quickSort.js)
+
+### [冒泡排序](/Code/Sort/bubbleSort.js)
+
+[冒泡排序 JavaScript](/Code/Sort/bubbleSort.js)
