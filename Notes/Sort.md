@@ -41,7 +41,7 @@ _Tips: 思考题：插入排序和冒泡排序的时间复杂度都是 O(n^2)，
 
 - [快速排序](/Notes/Sort/QuickSort.md)
 - [归并排序](/Notes/Sort/MergeSort.md)
-- [冒泡排序](/CodeSegment/Sort/bubbleSort.js)
+- [冒泡排序](/Code/Sort/bubbleSort.js)
 - [插入排序](/Notes/Sort/InsertionSort.md)
 - [选择排序](/Notes/Sort/SelectionSort.md)
 - [线性排序：桶排序、计数排序、基数排序](/Notes/Sort/LinearSort.md)
